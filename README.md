@@ -42,5 +42,5 @@ We present PhysicsNeRF, a novel approach for physically consistent 3D reconstruc
 - Phase 2 (5k-15k): α=0.025 (light regularization)
 - Phase 3 (15k+): α=0.08 (full constraints)
 
-## Installation
+
 
