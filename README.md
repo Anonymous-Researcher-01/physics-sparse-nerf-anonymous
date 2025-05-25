@@ -1,4 +1,4 @@
-# PhysicsNeRF: Physics-Guided Neural Radiance Fields for Plausible 3D Reconstruction from Sparse Views
+# PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views
 
 **Anonymous Submission to ICML 2025 Workshop: Building Physically Plausible World Models**
 
